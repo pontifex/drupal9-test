@@ -1,0 +1,5 @@
+.idea/
+.env
+vendor/
+sites/default/settings.php
+sites/default/files/
